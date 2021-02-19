@@ -120,7 +120,7 @@
 ### MP4 转码功能
 - 借助「mux-mp4.js」，源码来至 [mux.js](https://github.com/videojs/mux.js#mp4)
 - 但 mux.js 存在一个无法计算视频长度的 bug
-- 本人已 fork 该项目，并修复该 bug，修复后的项目[链接在这里](https://github.com/Momo707577045/mux.js)
+- 修复后的项目[链接在这里](https://github.com/Momo707577045/mux.js)
 
 ### 完结撒花，感谢阅读。
 ![](http://upyun.luckly-mjw.cn/Assets/m3u8-download/14.jpeg)
