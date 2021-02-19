@@ -108,11 +108,9 @@
 ```
 是的，涉及新知识点的部分只有上面一小段，其他的都是 JS 的基础应用。
 
-除了 vue.js 文件，本工具代码均包含在 index.html 文件里面。包括换行，一共 540 行代码，其中 css 样式 190 行，html 标签 30 行。JS 逻辑代码 300 行。
+除了 vue.js 文件，本工具代码均包含在 index.html 文件里面。
 
 罗列这些代码量只是想表明，本工具运用到的都只是 JS 的常见知识，并不复杂。鼓励大家多尝试阅读源码，其实看源码并没有想象中的那么困难。
-
-### [源码链接](https://github.com/Momo707577045/m3u8-downloader/blob/master/index.html)
 
 ### AES 常规解密功能
 - 借助「aes-decryptor.js」，该文件来至 [hls.js](https://github.com/video-dev/hls.js)
